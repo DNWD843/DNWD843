@@ -22,7 +22,7 @@ I hid some project`s code, because i am a senior student on Yandex.Practicum and
     
     
 
-**I wish you good luck and clean code!**
+**Good luck and clean code!**
 <!--
 **DNWD843/DNWD843** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
