@@ -7,8 +7,8 @@ I am a junior frontend developer. I love programming, traveling and workout.
 As a frontender, i enjoy creating beautiful and functional websites.  
 In the future i want to become the full-stack developer.
   
-In this <a href="https://portfolio.students.nomoreparties.space/" target="_blank" rel="noopener noreferrer">portfolio</a> you can see my work.  
-I hid some project`s code, because i am a senior student on Yandex.Practicum and i help novice developers learn web-development. As a senior student i can't let my students cheat. ))  
+In this <a href="https://portfolio.students.nomoreparties.space/" target="_blank" rel="noopener noreferrer">portfolio</a> you can see my works.  
+I hid some projects` code, because i am a senior student on Yandex.Practicum and i help novice developers learn web-development. As a senior student i can't let my students cheat. ))  
 
 - 🔭 I’m currently working on something cool;
 - 🌱 I’m currently learning JS, React and all around of them;
