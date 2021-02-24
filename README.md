@@ -17,8 +17,9 @@ I hid some projects` code, because i am a senior student on Yandex.Practicum and
 - 🤔 I’m looking for a good team;
 - 💬 Ask me about anything. Don`t be shy ))
 - 📫 How to reach me:  
-  :point_right: https://t.me/mad_damon  
-  :point_right: dima.kazanec.394@yandex.ru  
+  :point_right: write me to https://t.me/mad_damon  
+  :point_right: mail to dima.kazanec.394@yandex.ru  
+  :point_right: join to my environment at https://www.linkedin.com/in/maddamon/
     
     
 
