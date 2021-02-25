@@ -12,7 +12,7 @@ I hid some projects` code, because i am a senior student on Yandex.Practicum, wh
 
 - 🔭 I’m currently working on something cool;
 - 🌱 I’m currently learning JS, React and all around of them;
-- :open_book: I`m currently reading book about typescript;
+- :open_book: I read a book about typescript;
 - :exploding_head: I solve the kata on codewars;
 - 🤔 I’m looking for a good team;
 - 💬 Ask me about anything. Don`t be shy ))
