@@ -2,7 +2,7 @@
 
 Glad to see you here!  
   
-I am a junior frontend developer. I love programming, traveling and workout.  
+I am a frontend developer. I love programming, traveling and workout.  
   
 As a frontender, i enjoy creating beautiful and functional websites.  
 In the future i want to become the full-stack developer.
@@ -10,14 +10,12 @@ In the future i want to become the full-stack developer.
 In this <a href="https://portfolio.nomoredomains.icu/" target="_blank" rel="noopener noreferrer">portfolio</a> you can see my works.  
 
 - 🔭 I’m currently working on something cool;
-- 🌱 I’m currently learning JS, React and all around of them;
-- :open_book: I read a book about typescript;
+- 🌱 I do like JS, TS, React and all around of them;
+- :open_book: I like read books about programming and biographies of a famous people;
 - :exploding_head: I solve the kata on codewars;
-- 🤔 I’m looking for a good team;
-- 💬 Ask me about anything. Don`t be shy ))
+- 💬 Ask me anything. Don`t be shy )
 - 📫 How to reach me:  
   :point_right: write me to https://t.me/mad_damon  
-  :point_right: mail to dima.kazanec.394@yandex.ru  
   :point_right: join to my environment at https://www.linkedin.com/in/maddamon/
     
     
