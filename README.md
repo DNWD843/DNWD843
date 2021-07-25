@@ -7,7 +7,7 @@ I am a frontend developer. I love programming, traveling and workout.
 As a frontender, i enjoy creating beautiful and functional websites.  
 In the future i want to become the full-stack developer.
   
-In this <a href="https://portfolio.nomoredomains.icu/" target="_blank" rel="noopener noreferrer">portfolio</a> you can see my works.  
+In this <a href="https://dnwd843.github.io/portfolio/" target="_blank" rel="noopener noreferrer">portfolio</a> you can see my works.  
 
 - 🔭 I’m currently working on something cool;
 - 🌱 I do like JS, TS, React and all around of them;
