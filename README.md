@@ -4,8 +4,8 @@ Glad to see you here!
   
 I am a frontend developer. I love programming, traveling and workout.  
   
-As a frontender, i enjoy creating beautiful and functional websites.  
-In the future i want to become the full-stack developer.
+As a frontender, I enjoy creating beautiful and functional websites.  
+In the future I want to become the full-stack developer.
   
 In this <a href="https://dnwd843.github.io/portfolio/" target="_blank" rel="noopener noreferrer">portfolio</a> you can see my works.  
 
@@ -13,7 +13,7 @@ In this <a href="https://dnwd843.github.io/portfolio/" target="_blank" rel="noop
 - 🌱 I do like JS, TS, React and all around of them;
 - :open_book: I like read books about programming and biographies of a famous people;
 - :exploding_head: I solve the kata on codewars;
-- 💬 Ask me anything. Don`t be shy )
+- 💬 Ask me anything. Don`t be shying )
 - 📫 How to reach me:  
   :point_right: write me to https://t.me/mad_damon  
   :point_right: join to my environment at https://www.linkedin.com/in/maddamon/
