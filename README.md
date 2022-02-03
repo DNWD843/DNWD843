@@ -16,7 +16,7 @@ In this <a href="https://dnwd843.github.io/portfolio/" target="_blank" rel="noop
 - 💬 Ask me anything. Don`t be shying )
 - 📫 How to reach me:  
   :point_right: write me to https://t.me/mad_damon  
-  :point_right: join to my environment at https://www.linkedin.com/in/maddamon/
+  :point_right: join my environment at https://www.linkedin.com/in/maddamon/
     
     
 
