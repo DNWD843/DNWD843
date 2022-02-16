@@ -11,7 +11,7 @@ In the future I want to become the full-stack developer.
 
 - 🔭 I’m currently working on something cool;
 - 🌱 I do like JS, TS, React and all around of them;
-- :open_book: I like read books about programming and biographies of a famous people;
+- :open_book: I like reading books about programming and biographies of a famous people;
 - :exploding_head: I solve the kata on codewars;
 - 💬 Ask me anything. Don`t be shying )
 - 📫 How to reach me:  
