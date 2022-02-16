@@ -2,7 +2,7 @@
 
 I`m glad to see you here!  
   
-I am a frontend developer. I love programming, traveling and workout.  
+I am frontend developer. I love programming, traveling and workout.  
   
 As a frontender, I enjoy creating beautiful and functional websites.  
 In the future I want to become full-stack developer.
