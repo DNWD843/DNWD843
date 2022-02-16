@@ -1,6 +1,6 @@
 ### Hi there, I`m Dmitry 👋  
 
-Glad to see you here!  
+I`m glad to see you here!  
   
 I am a frontend developer. I love programming, traveling and workout.  
   
