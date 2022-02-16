@@ -12,7 +12,7 @@ In the future I want to become the full-stack developer.
 - 🔭 I’m currently working on something cool;
 - 🌱 I do like JS, TS, React and all around of them;
 - :open_book: I like reading books about programming and biographies of a famous people;
-- :exploding_head: I solve the kata on codewars;
+- :exploding_head: I solve kata on codewars;
 - 💬 Ask me anything. Don`t be shying )
 - 📫 How to reach me:  
   :point_right: write me to https://t.me/mad_damon  
