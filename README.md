@@ -4,7 +4,7 @@ I`m glad to see you here!
   
 I am frontend developer. I love programming, traveling and workout.  
   
-As a frontender, I enjoy creating beautiful and functional websites.  
+As a frontender, I enjoy creating beautiful and functional websites and webapplications.  
 In the future I want to become full-stack developer.
   
 <!--In this <a href="https://dnwd843.github.io/portfolio/" target="_blank" rel="noopener noreferrer">portfolio</a> you can see my works. -->  
