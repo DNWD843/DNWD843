@@ -10,7 +10,7 @@ In the future I want to become full-stack developer.
 <!--In this <a href="https://dnwd843.github.io/portfolio/" target="_blank" rel="noopener noreferrer">portfolio</a> you can see my works. -->  
 
 - 🔭 I’m currently working on something cool;
-- 🌱 I do like JS, TS, React and all around of them;
+- 🌱 I do like JS, TS, React;
 - :open_book: I like reading books about programming and biographies of a famous people;
 - :exploding_head: I solve kata on codewars;
 - 💬 Ask me anything. Don`t be shying )
